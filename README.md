@@ -4,4 +4,4 @@ Sistema middleware criado para integrar o ERP Microvix da Linx com o ERP N&L Ges
 
 O sistema foi desenvolvido utilizando a linguagem java e o framework Spring.
 
-O sistema ler os dados dos cadastros de pessoas e produtos da base de dados do N&L Gestao e enviar para o Microvix, fazendo uso dos web services do Microvix, previstos para integraçoes.
+O sistema ira integrar dados nos dois sentedidos, levando as informações de pessoas e produtos do N&L Gestão para o Microvix e retornando as notas fiscais emitidas no microvix para o N&L Gestão.
