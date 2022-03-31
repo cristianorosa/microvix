@@ -4,4 +4,4 @@ Sistema midleware criado para integrar o ERP Microvix da Linx com o ERP N&L Gest
 
 O sistema foi desenvolvido utilizando a linguagem java e o framework Spring.
 
-O sistema ira exportar os dados dos cadastros de pessoas e produtos para o Microvix e ira importar as notas fiscais e clientes para o N&L Gestao.
+O sistema ler os dados dos cadastros de pessoas e produtos da base de dados do N&L Gestao e enviar para o Microvix, fazendo uso dos web services do Microvix, previstos para integracoes.
